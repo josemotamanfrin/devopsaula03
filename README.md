@@ -5,4 +5,4 @@ conflito
 * Mercurial
 * Git
 * Subversion
-* CVS!
+* CVS! Resolvido
